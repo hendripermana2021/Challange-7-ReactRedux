@@ -6,7 +6,7 @@ npm install
 
 ```
 
-###SECOND, YOU CAN START THIS 
+### SECOND, YOU CAN START THIS 
 ```
 npm run start
 
